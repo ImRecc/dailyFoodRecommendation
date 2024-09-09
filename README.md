@@ -1,0 +1,2 @@
+# dailyFoodRecommendation
+c++ based application
